@@ -1,54 +1,38 @@
 ---
-title: Charming Evening Field
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: 'Decision to reopen Campus in offline mode '
+date: 2021-12-27T08:46:10+00:00
+description: ''
 type: post
-image: images/masonary-post/post-6.jpg
+image: ''
 categories:
-- Food
-tags:
-- Photos
-- Food
+- Opinion
+tags: []
 draft: true
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+_Is it a good idea to reopen the university in offline mode with the threat of Omicron looming over our heads?_
 
+New Delhi: Colleges have finally begun to reopen after being closed for two years. Instead of offering a hybrid mode option, they've made offline mode necessary.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+As vital as it is for students to be on campus, I'm not sure it's a smart idea for institutions to open in full offline mode rather than hybrid mode as the threat of Omicron looms overhead.
 
+Omicron is a milder variant compared to the others, but it is spreading much faster. As of December 27, there have been 578 cases of the fast-spreading variant in India, with the highest number of infections reported in Delhi and Maharashtra.
 
-![](../images/post-img.jpg)
+The Omicron variant is said to be three times more transmissible than the Delta variant.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Every day, there's a surge in COVID-19 cases, and some students still haven't received their first dose or are yet to receive their second dose of the vaccine.
+
+As thrilled as we are to be back on campus, the prospect of becoming infected or being forced to return home after a week or two in offline mode is worrisome. This makes me wonder why universities choose to operate in an offline mode instead of choosing the hybrid model approach.
+
+Students who don't live in Delhi NCR are afraid that they will be sent home within a week after the campus reopens because there's going to be a rise in the number of cases, or worse, if a student or faculty member gets infected.
+
+Even though everyone is aware and alarmed about the sudden surge in COVID-19 cases and the threat of the latest variant, Some people still refuse to follow the COVID-19 guidelines, which puts the people around them at risk.
+
+As we approach the end of the year, markets are full of unmasked people, and partying is at an all-time high.
+
+Christmas and New Year's are merely another reason to organise parties and participate in large public gatherings, which should be avoided at all costs.
+
+Universities should reopen, but in a hybrid manner rather than completely offline.
+
+Furthermore, pupils should have the option of attending classes online or offline, as some parents may be hesitant to send their children to college as they are afraid that they might be at risk of contracting the virus.
