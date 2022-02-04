@@ -1,7 +1,8 @@
 ---
 title: About
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+date: 2022-02-04T15:46:10+00:00
+description: Aadya is an avid writer and an aspiring journalist currently studying
+  Journalism and Mass communication at Bennett University
 image: images/author.jpg
 
 ---
