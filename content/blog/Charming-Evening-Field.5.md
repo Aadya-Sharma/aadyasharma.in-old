@@ -19,19 +19,15 @@ As vital as it is for students to be on campus, I'm not sure it's a smart idea f
 
 Omicron is a milder variant compared to the others, but it is spreading much faster. As of December 27, there have been 578 cases of the fast-spreading variant in India, with the highest number of infections reported in Delhi and Maharashtra.
 
-The Omicron variant is said to be three times more transmissible than the Delta variant.
-
-Every day, there's a surge in COVID-19 cases, and some students still haven't received their first dose or are yet to receive their second dose of the vaccine.
+The Omicron variant is said to be three times more transmissible than the Delta variant. Every day, there's a surge in COVID-19 cases, and some students still haven't received their first dose or are yet to receive their second dose of the vaccine.
 
 As thrilled as we are to be back on campus, the prospect of becoming infected or being forced to return home after a week or two in offline mode is worrisome. This makes me wonder why universities choose to operate in an offline mode instead of choosing the hybrid model approach.
 
-Students who don't live in Delhi NCR are afraid that they will be sent home within a week after the campus reopens because there's going to be a rise in the number of cases, or worse, if a student or faculty member gets infected.
+Students who don't live in Delhi NCR are afraid that they will be sent home within a week after the campus reopens because there's going to be a rise in the number of cases, or worse if a student or faculty member gets infected.
 
 Even though everyone is aware and alarmed about the sudden surge in COVID-19 cases and the threat of the latest variant, Some people still refuse to follow the COVID-19 guidelines, which puts the people around them at risk.
 
-As we approach the end of the year, markets are full of unmasked people, and partying is at an all-time high.
-
-Christmas and New Year's are merely another reason to organise parties and participate in large public gatherings, which should be avoided at all costs.
+As we approach the end of the year, markets are full of unmasked people, and partying is at an all-time high. Christmas and New Year's are merely another reason to organise parties and participate in large public gatherings, which should be avoided at all costs.
 
 Universities should reopen, but in a hybrid manner rather than completely offline.
 
