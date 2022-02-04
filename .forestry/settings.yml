@@ -18,7 +18,7 @@ sections:
   path: content/contact.md
   label: Contact
 - type: heading
-  label: Dont change
+  label: Don't modify
 - type: document
   path: config.toml
   label: Configuration
