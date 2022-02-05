@@ -7,7 +7,6 @@ image: ''
 categories:
 - Opinion
 tags: []
-draft: true
 
 ---
 
