@@ -3,7 +3,7 @@ title: Condition of Indies in India
 date: 2022-02-04T17:46:10+00:00
 description: ''
 type: post
-image: ''
+image: "/images/92a2024a-f3e4-440b-8c34-423996a4aaa2.jpg"
 categories:
 - Opinion
 tags: []
