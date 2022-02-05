@@ -9,11 +9,11 @@ categories:
 tags: []
 
 ---
-I've loved dogs since I was a child, and despite having a pet dog, I've always felt devoted to the dogs in my colony. Instead of changing my uniform when I got home from school, I would hurriedly pack bread, biscuits, and milk and rush to the park   behind my house to feed the pups that resided right outside the park.
+New Delhi: I have loved dogs since I was a child, and despite having a pet dog, I have always felt devoted to the dogs in my colony. Instead of changing my uniform when I got home from school, I would hurriedly pack bread, biscuits, and milk and rush to the park behind my house to feed the pups that lived right outside the park.
 
 I had named each of them and loved them as much as I loved my dog, which is why it crushed my heart to learn that the one I was closest to had been poisoned. I was too young to grasp why somebody would do such a thing, but now I am old enough to understand how people treat indies.
 
-I didn't know or comprehend the horrors of life as well as I do now, and I wish there was something I could do about it. Seeing puppies live on the side of the road enrages and distresses me because they do not deserve to live in such a harsh environment; they require safe and loving homes.
+I didn't know or comprehend the horrors of life back then, as well as I do now, and I wish there was something I could do about it. Seeing puppies live on the side of the road enrages and distresses me because they do not deserve to live in such a harsh environment; they require safe and loving homes.
 
 Indie dogs live in the toughest conditions and are subjected to maltreatment daily. They live on the streets instead of in a safe place because people are terrified of them and they either try to hurt them or call someone to take them away.
 
