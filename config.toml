@@ -85,14 +85,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
-[[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/aadyasharma29"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-github"
-link = "#"
+link = "https://www.linkedin.com/in/aadya-sharma-638208221/"
