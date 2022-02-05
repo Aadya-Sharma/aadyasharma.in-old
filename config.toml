@@ -8,31 +8,27 @@ title = "Aadya Sharma"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Admin"
-url = "/admin"
-weight = 4
+name = "Homepage 2"
+parent = "Homepage"
+url = "homepage/home-2"
+weight = 2
 [[menu.main]]
 name = "Homepage 1"
 parent = "Homepage"
 url = "homepage/home-1"
 weight = 1
 [[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2"
-weight = 2
+hasChildren = true
+name = "Homepage"
+weight = 1
 [[menu.main]]
-name = "Contact"
-url = "Contact"
-weight = "3"
+name = "Admin"
+url = "/admin"
+weight = 4
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Homepage"
-weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
