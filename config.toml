@@ -23,8 +23,8 @@ url = "homepage/home-2"
 weight = 2
 [[menu.main]]
 name = "Contact"
-url = "contact"
-weight = 3
+url = ""
+weight = ""
 [[menu.main]]
 name = "About"
 url = "about"
