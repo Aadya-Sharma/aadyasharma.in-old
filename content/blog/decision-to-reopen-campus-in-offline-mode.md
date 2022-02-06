@@ -1,7 +1,8 @@
 ---
 title: 'Decision to reopen Campus in offline mode '
 date: 2021-12-27T08:46:10+00:00
-description: ''
+description: Is it a good idea to reopen the university in offline mode with the threat
+  of Omicron looming over our heads?
 type: post
 image: "/images/matt-ragland-02z1i7gv4ao-unsplash.jpg"
 categories:
@@ -9,10 +10,7 @@ categories:
 tags: []
 
 ---
-
-_Is it a good idea to reopen the university in offline mode with the threat of Omicron looming over our heads?_
-
-New Delhi: Colleges have finally begun to reopen after being closed for two years. Instead of offering a hybrid mode option, they've made offline mode necessary. 
+New Delhi: Colleges have finally begun to reopen after being closed for two years. Instead of offering a hybrid mode option, they've made offline mode necessary.
 
 As vital as it is for students to be on campus, I'm not sure it's a smart idea for institutions to open in full offline mode rather than hybrid mode as the threat of Omicron looms overhead.
 
