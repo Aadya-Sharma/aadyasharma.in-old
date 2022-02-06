@@ -3,7 +3,7 @@ title: 'Decision to reopen Campus in offline mode '
 date: 2021-12-27T08:46:10+00:00
 description: ''
 type: post
-image: ''
+image: "/images/matt-ragland-02z1i7gv4ao-unsplash.jpg"
 categories:
 - Opinion
 tags: []
