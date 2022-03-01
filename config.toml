@@ -23,7 +23,7 @@ url = "homepage/home-2"
 weight = 2
 [[menu.main]]
 name = "Contact"
-url = "Contact"
+url = "contact"
 weight = "3"
 [[menu.main]]
 name = "About"
@@ -44,7 +44,7 @@ contact_form_action = "#"
 copyright = "&copy; 2022 Aadya Sharma "
 description = "Aadya is an avid writer and an aspiring journalist currently studying Journalism and Mass communication at Bennett University"
 email = "aadyasharma2905@gmail.com"
-home = "Home"
+home = "Home 2"
 layout = "1"
 logo = "images/logo.png"
 mobile = ""
