@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/the-paradigm-of-heteronormativity.md
 - content/contact.md
