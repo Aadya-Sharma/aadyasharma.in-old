@@ -2,7 +2,7 @@
 categories = []
 date = 2022-02-28T18:30:00Z
 description = ""
-image = ""
+image = "/images/pride.jpeg"
 tags = []
 title = "The Paradigm of Heteronormativity"
 type = ""
