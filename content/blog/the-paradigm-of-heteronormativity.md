@@ -1,12 +1,12 @@
 +++
-categories = []
+categories = ["Opinion"]
 date = 2022-02-28T18:30:00Z
 description = "pride"
 draft = true
 image = "/images/pride.jpeg"
 tags = []
 title = "The Paradigm of Heteronormativity"
-type = "opinion"
+type = ""
 
 +++
 Heteronormativity is the assumption that everyone is straight and that romantic and sexual relationships can only exist between a man and a woman. It assumes that heterosexuality is the default sexual orientation and that it is the only normal way to express sexuality and romantic attraction. This assumption is incredibly harmful as it negatively affects the LGBTQIA+ community.
