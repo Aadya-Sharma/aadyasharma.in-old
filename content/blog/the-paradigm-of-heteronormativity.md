@@ -1,7 +1,7 @@
 +++
 categories = []
 date = 2022-02-28T18:30:00Z
-description = ""
+description = "pride"
 draft = true
 image = "/images/pride.jpeg"
 tags = []
