@@ -2,7 +2,6 @@
 categories = []
 date = 2022-02-28T18:30:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "The Paradigm of Heteronormativity"
