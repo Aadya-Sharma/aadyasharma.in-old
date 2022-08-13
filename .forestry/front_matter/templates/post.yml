@@ -24,5 +24,6 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/the-influence-of-literature-and-poetry.md
 - content/blog/the-paradigm-of-heteronormativity.md
 - content/contact.md
