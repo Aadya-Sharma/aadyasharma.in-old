@@ -8,6 +8,7 @@ image: "/images/matt-ragland-02z1i7gv4ao-unsplash.jpg"
 categories:
 - Opinion
 tags: []
+draft: true
 
 ---
 New Delhi: Colleges have finally begun to reopen after being closed for two years. Instead of offering a hybrid mode option, they've made offline mode necessary.
