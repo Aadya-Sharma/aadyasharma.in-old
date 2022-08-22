@@ -8,7 +8,7 @@ title = "The Paradigm of Heteronormativity"
 type = ""
 
 +++
-Heteronormativity is the assumption that everyone is straight and that romantic and sexual relationships can only exist between a man and a woman. It assumes that heterosexuality is the default sexual orientation and that it is the only normal way to express sexuality and romantic attraction. This assumption is incredibly harmful as it negatively affects the LGBTQIA+ community.
+New Delhi: Heteronormativity is the assumption that everyone is straight and that romantic and sexual relationships can only exist between a man and a woman. It assumes that heterosexuality is the default sexual orientation and that it is the only normal way to express sexuality and romantic attraction. This assumption is incredibly harmful as it negatively affects the LGBTQIA+ community.
 
 **_Queerness as confusion._**
 
