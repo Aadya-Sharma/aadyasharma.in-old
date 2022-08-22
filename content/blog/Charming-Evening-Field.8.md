@@ -3,7 +3,7 @@ title: Condition of Indies in India
 date: 2022-02-04T17:46:10+00:00
 description: One of the many wonderful and lovely indie dogs that stole my heart.
 type: post
-image: "/images/2a438924-360c-4ddd-a985-b2fc42437c89.jpg"
+image: "/images/img_0427.jpeg"
 categories:
 - Opinion
 tags: []
