@@ -2,6 +2,7 @@
 categories = []
 date = ""
 description = ""
+draft = true
 image = "/images/90abc0f36e37bab62adbdeba3eb8d946.jpg"
 tags = []
 title = " The Influence of Literature and Poetry "
