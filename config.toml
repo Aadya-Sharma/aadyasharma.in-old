@@ -8,7 +8,7 @@ title = "Aadya Sharma"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
+name = "Blog"
 weight = 1
 [[menu.main]]
 name = "Admin"
