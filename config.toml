@@ -8,14 +8,12 @@ title = "Aadya Sharma"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Home"
+weight = 1
+[[menu.main]]
 name = "Admin"
 url = "/admin"
 weight = 4
-[[menu.main]]
-name = "Homepage "
-parent = "Homepage"
-url = "homepage/home"
-weight = "1"
 [[menu.main]]
 name = "About"
 url = "about"
