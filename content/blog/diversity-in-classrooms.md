@@ -2,7 +2,6 @@
 categories = ["Opinion", ""]
 date = 2022-09-21T18:30:00Z
 description = "The need for safe spaces for people who are part of the LGBTQ+ community remains ever-present, especially in educational institutions."
-draft = true
 image = "/images/img_9259.jpeg"
 tags = []
 title = "Diversity in educational instutions "
