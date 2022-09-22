@@ -14,12 +14,6 @@ fields:
 - type: text
   name: description
   label: description
-- type: list
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
 - type: text
   name: type
   label: type
