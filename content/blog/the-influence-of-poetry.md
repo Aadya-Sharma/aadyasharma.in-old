@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 image = "/images/dsc02013.JPG"
 title = "The Influence of Poetry"
 type = "OPINION"
