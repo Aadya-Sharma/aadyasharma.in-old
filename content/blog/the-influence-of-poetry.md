@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2022-09-30T18:30:00Z
 description = ""
 image = "/images/dsc02013.JPG"
 title = "The Influence of Poetry"
