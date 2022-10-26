@@ -18,6 +18,7 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/disrupting-the-heternormative-mindset.md
 - content/blog/diversity-in-classrooms.md
 - content/blog/the-influence-of-poetry.md
 - content/blog/the-paradigm-of-heteronormativity.md
