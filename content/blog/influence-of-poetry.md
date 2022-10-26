@@ -1,6 +1,7 @@
 +++
 date = 2022-09-30T18:30:00Z
 description = "Poetry"
+draft = true
 image = "/images/dsc02013.JPG"
 title = "Influence Of Poetry "
 type = "OPINION"
